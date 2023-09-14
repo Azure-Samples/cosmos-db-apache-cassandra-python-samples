@@ -19,10 +19,10 @@ export COSMOS_KEY="<cosmos-account-PRIMARY-KEY>"
 
 > **💡 TIP**: If you don't have an Azure Cosmos DB account, [create a free account](https://cosmos.azure.com/try/).
 
-Run the quickstart sample app using the [`pymongo`](https://pypi.org/project/pymongo/) package from PyPI.
+Run the quickstart sample app using the [`cassandra-driver`](https://pypi.org/project/cassandra-driver/) package from PyPI.
 
 ```bash
-pip install pymongo
+pip install cassandra-driver
 python 001-quickstart/app.py
 ```
 
