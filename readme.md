@@ -1,6 +1,6 @@
 # Azure Cosmos DB for NoSQL client library samples for Python
 
-
+[![Validate Python projects](https://github.com/Azure-Samples/cosmos-db-apache-cassandra-python-samples/actions/workflows/validate.yml/badge.svg)](https://github.com/Azure-Samples/cosmos-db-apache-cassandra-python-samples/actions/workflows/validate.yml)
 
 ## Getting started
 
